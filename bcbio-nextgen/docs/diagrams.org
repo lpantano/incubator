@@ -1,0 +1,165 @@
+#+OPTIONS: tex:xelatex
+#+LaTeX_HEADER: \usepackage{tikz}
+#+LaTeX_HEADER: \usepackage{lmodern}
+#+LaTeX_HEADER:
+\usetikzlibrary{arrows,decorations.pathmorphing,backgrounds,positioning,fit,petri,shadows,shapes}
+
+\begin{tikzpicture}
+  [font=\sffamily,
+   zmq/.style={rectangle, drop shadow, draw=none, fill=red, thick,
+     text width=5em, text=white, text centered},
+   ann/.style={above, text width=5em, text centered},
+   engine/.style={rectangle,draw=none,fill=blue, thick,
+     text width=5em, drop shadow, text=white, text centered}]
+    \node[zmq] (zmq1) {ZMQ1};
+    \node[zmq] (zmq2) [below=0cm of zmq1] {ZMQ2};
+    \node[ann] (ann) [below=0cm of zmq2] {$\vdots$};
+    \node[zmq] (zmqn) [below=0cm of ann] {ZMQN};
+    \node[engine] (engine1) [right=of zmq1] {engine-1};
+    \node[engine] (engine2) [below=0cm of engine1] {engine-2};
+    \node[ann] (ann-engine) [below=0cm of engine2] {$\vdots$};
+    \node[engine] (enginen) [below=0cm of ann-engine] {engine-n};
+    \draw [<->, thick, blue] (zmq1.east) -- (engine1.west);
+    \draw [<->, thick, blue] (zmq2.east) -- (engine2.west);
+    \draw [<->, thick, blue] (zmqn.east) -- (enginen.west);
+    \node[zmq] (controller) [left=of zmq2] {controller};
+    \draw [<->, thick, blue] (controller.north east) to [bend left=10] (zmq1.west);
+    \draw [<->, thick, blue] (controller.east) -- (zmq2.west);
+    \draw [<->, thick, blue] (controller.south east) -- (zmqn.west);
+    \node[zmq] (zmq-controller) [below=0.5cm of controller] {ZMQ};
+    \draw [<->, thick, blue] (controller.south) -- (zmq-controller.north);
+    \node[zmq] (scheduler) [above left=0.5cm of controller] {scheduler};
+    \node[zmq] (bcbio) [below left=0.5cm of zmq-controller] {bcbio};
+    \draw [->, red, thick] (scheduler.east) to [bend left=20] (engine1.north west);
+    \draw [red, thick, ->] (bcbio.north) -- (scheduler.south);
+    \draw [red, thick, ->] (scheduler.east) -- (controller.north west);
+    \draw [->, thick, blue] (bcbio.east) -- (zmq-controller.south west);
+\end{tikzpicture}
+
+\newpage
+\tikzstyle{abstract-split}=[rectangle, draw=black, rounded corners, fill=blue!40, drop shadow,
+        text centered, anchor=north, text=white,
+        rectangle split, rectangle split parts=2]
+\tikzstyle{abstract-split5}=[rectangle, draw=black, rounded corners, fill=blue!40, drop shadow,
+        text centered, anchor=north, text=white,
+        rectangle split, rectangle split parts=5]
+\tikzstyle{abstract-split4}=[rectangle, draw=black, rounded corners, fill=blue!40, drop shadow,
+        text centered, anchor=north, text=white,
+        rectangle split, rectangle split parts=4]
+\tikzstyle{abstract}=[rectangle, draw=black, rounded corners, fill=blue!40, drop shadow,
+        text centered, anchor=north, text=white]
+\begin{figure}
+\centering
+\begin{tikzpicture}
+  [font=\sffamily,
+     node/.style={rectangle, drop shadow, draw=none, fill=red, thick,
+     text width=5em, text=white, text centered}]
+   \node[abstract] (bcbio) {bcbio-nextgen};
+   \node[abstract] (fastq) [above=of bcbio] {BAM or FASTQ};
+   \node[abstract] (metadata) [above left=of bcbio] {metadata};
+   \node[abstract] (config) [above right=of bcbio] {configuration};
+   \node[abstract-split] (trimming) [below=of bcbio] {
+     \textbf{trimming}
+     \nodepart{second}
+     \begin{tabular}{@{}l}
+       \texttt{cutadapt}
+     \end{tabular}
+   };
+   \node[abstract-split4] (align-genome) [below=of trimming] {
+     \textbf{genome alignment}
+     \nodepart{second}
+     \begin{tabular}{@{}l}
+       \texttt{STAR (high memory)}\\
+       \texttt{Tophat2}
+     \end{tabular}
+     \nodepart{third}
+     \textbf{transcriptome alignment}
+     \nodepart{four}
+     \begin{tabular}{@{}l}
+       \texttt{STAR (high memory)}\\
+       \texttt{bwa-mem}
+     \end{tabular}
+   };
+   \node[abstract-split] (variant calling) [left=of align-genome] {
+     \textbf{variant/RNA editing calling}
+     \nodepart{second}GATKHaplotypeCaller
+   };
+   \node[abstract-split] (quality control) [above left=.5cm of align-genome] {
+     \textbf{quality control}
+     \nodepart{two}
+     \begin{tabular}{@{}l}
+       \texttt{FastQC}\\
+       \texttt{bamstats}\\
+       \texttt{RNA-SeQC}
+     \end{tabular}
+   };
+   \node[abstract-split] (assemble) [right=of align-genome] {
+     \textbf{assemble transcriptome}
+     \nodepart{two}
+     \begin{tabular}{@{}l}
+       \texttt{Cufflinks}
+     \end{tabular}};
+   \node[abstract-split4] (gene-quant) [below=of align-genome] {
+     \textbf{gene expression}
+     \nodepart{two}
+     \begin{tabular}{@{}l}
+       \texttt{featureCounts}\\
+       \texttt{eXpress}\\
+       \texttt{Cufflinks}
+     \end{tabular}
+     \nodepart{three}
+     \textbf{isoform/exon/event expression}
+     \nodepart{four}
+     \begin{tabular}{@{}l}
+       \texttt{DEXSeq}\\
+       \texttt{eXpress}\\
+       \texttt{Cufflinks}
+     \end{tabular}
+};
+   \node[abstract-split] (predict-coding) [below=of assemble] {
+     \textbf{filter/annotate}
+     \nodepart{two}
+     \begin{tabular}{@{}l}
+       \texttt{CPAT}\\
+       \texttt{Cuffcompare}
+     \end{tabular}};
+   \node[abstract-split] (fusion) [above right=of align-genome] {
+     \textbf{fusion gene calling}
+     \nodepart{two}
+     \begin{tabular}{@{}l}
+       \texttt{Oncofuse}
+     \end{tabular}};
+   \node[abstract-split4] (de) [left=0.5cm of gene-quant] {
+     \textbf{gene differential expression}
+     \nodepart{two}
+     \begin{tabular}{@{}l}
+       \texttt{RSEM}\\
+       \texttt{Cufflinks}\\
+       \texttt{DESeq2}\\
+       \texttt{edgeR}\\
+       \texttt{voom + limma}
+     \end{tabular}
+   \nodepart{three}
+     \textbf{isoform differential expression}
+     \nodepart{four}
+     \begin{tabular}{@{}l}
+       \texttt{DEXSeq}\\
+       \texttt{RSEM}
+     \end{tabular}
+   };
+    \draw [->, thick] (bcbio.south) to (trimming.north);
+    \draw [->, thick] (metadata.south east) to (bcbio.north west);
+    \draw [->, thick] (fastq.south) to (bcbio.north);
+    \draw [->, thick] (config.south west) to (bcbio.north east);
+    \draw [->, thick] (trimming.west) to (quality control.east);
+    \draw [->, thick] (trimming.south) to (align-genome.north);
+    \draw [->, thick] (align-genome.north west) to (quality control.south east);
+    \draw [->, thick] (align-genome.west) to (variant calling.east);
+    \draw [->, thick] (align-genome.east) to (assemble.west);
+    \draw [->, thick] (assemble.south) to (predict-coding.north);
+    \draw [->, thick] (align-genome.south) to (gene-quant.north);
+    \draw [->, thick] (align-genome.north east) to (fusion.south west);
+    \draw [->, thick] (gene-quant.west) to (de.east);
+\end{tikzpicture}
+\end{figure}
+
