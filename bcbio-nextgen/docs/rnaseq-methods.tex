@@ -1,0 +1,81 @@
+% Created 2015-01-21 Wed 13:38
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\date{}
+\title{rnaseq-methods}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs 25.0.50.1 (Org mode 8.2.10)}}
+\begin{document}
+
+\maketitle
+HiSeq Illumina sequencing will be performed on our behalf by \#\#\#. All
+samples will be indexed so that \#\#\# RNA pools can be run on a single
+lane of an 8-laned Illumina flow cell, providing an estimated \#\#\#
+million reads per sample [Note: aim for 20-30 million reads, 100bp
+paired-end].
+
+All samples will be processed using RNA-seq pipeline implemented in
+the bcbio-nextgen project. Raw reads will be examined for quality
+issues using FastQC to ensure library generation and sequencing are
+suitable for further analysis. Adapter sequences, other contaminant
+sequences such as polyA tails and low quality sequences with PHRED
+quality scores less than five will be trimmed from reads using
+cutadapt\cite{Martin:2011va}. Trimmed reads will be aligned to build
+XX of the XX genome, augmented with transcript information from
+Ensembl release XX using STAR\cite{Dobin:2013fg}.
+
+Alignments will be checked for evenness of coverage, rRNA content,
+genomic context of alignments (for example, alignments in known
+transcripts and introns), complexity and other quality checks using a
+combination of FastQC, RNA-SeQC\cite{DeLuca:2012dp} and custom tools.
+Counts of reads aligning to known genes and isoforms will be generated
+by a combination of featureCounts\cite{Anonymous:2014cj},
+eXpress\cite{Roberts:2013up} and DEXSeq\cite{Anders:2012es}.
+
+Novel transcripts will be identified via reference-guided assembly
+with Cufflinks\cite{Trapnell:2010kd},
+with novel
+transcripts filtered for coding potential agreement\cite{Wang:2013bj}
+with known genes to reduce false positive assemblies. Variant calls
+and RNA-editing events will be called from alignments using the GATK
+HaplotypeCaller, filtered with custom tools to remove false
+positive events due to alignment errors and other artifacts.
+RNA-editing events will be separated from SNPs by a combination of
+looking clusters of A->G or T->C events and known edit sites from
+RADAR\cite{Ramaswami:2014hx}.
+
+Differential expression at the gene level will be called with
+DESeq2\cite{Love:2014do}, which has been shown to be a robust,
+conservative differential expression calller. Isoform and exon-level
+calls are much more prone to false positives, and so an ensemble
+method combining calls that agree from both DEXSeq and
+EBSeq\cite{Leng:2013bk} will be used to call differential isoforms.
+
+Gene-level differntial RNAseq results will be validated by qRT-PCR on
+a subset of genes. Isoform and event-level differential expression
+calls will be validated using semi-quantitative PCR to flag percent
+spliced in levels for the event.
+
+[Add in whatever particular downstream stuff is going to happen].
+
+\bibliographystyle{plain}
+\bibliography{rnaseq-methods}
+% Emacs 25.0.50.1 (Org mode 8.2.10)
+\end{document}
