@@ -1,0 +1,10 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{booktabs}
+\begin{document}
+\begin{longtable}{@{}p{0.3\textwidth}p{1cm}p{1cm}p{0.5\textwidth}@{}} \toprule
+            pathway&pvalue&FDR&genes\\ \midrule
+            {{{table-entries}}} \bottomrule
+\end{longtable}
+\end{document}

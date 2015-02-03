@@ -1,0 +1,2728 @@
+User data and parameters: User data: in_both_human_symbol.txt, Organism: hsapiens, Id Type: gene_symbol, Ref Set: tsc_expressed_human_entrez.txt, Significance Level: .1, Statistics Test: Hypergeometric, MTC: BH, Minimum: 5
+
+The results for each enriched gene sets are listed in this table. For each pathway, the first row lists its gene set
+name, and corresponding Gene Set ID. The second row lists
+number of reference genes in the category (C), number of genes in the gene set and also in the category (O), expected number in the
+category (E), Ratio of enrichment (R), p value from hypergeometric test (rawP), and p value adjusted by the multiple test adjustment (adjP).
+Finally, genes in the pathway are listed. For each gene, the table lists the user uploaded ID and value (optional), Entrez ID,
+Ensembl Gene Stable ID, Gene symbol, and description.
+
+
+Pathway Commons pathway	IFN-gamma pathway	DB_ID:1529
+C=1219;O=28;E=11.09;R=2.52;rawP=4.71e-06;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+
+Pathway Commons pathway	mTOR signaling pathway	DB_ID:1571
+C=1212;O=27;E=11.03;R=2.45;rawP=1.25e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	PDGF receptor signaling network	DB_ID:1497
+C=1217;O=27;E=11.07;R=2.44;rawP=1.34e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Iron uptake and transport	DB_ID:980
+C=36;O=5;E=0.33;R=15.26;rawP=1.76e-05;adjP=3.15e-05
+ATP6V0A1	NA	ATP6V0A1	ATPase, H+ transporting, lysosomal V0 subunit a1	535	ENSG00000033627
+
+SLC11A2	NA	SLC11A2	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2	4891	ENSG00000110911
+
+ATP6V0B	NA	ATP6V0B	ATPase, H+ transporting, lysosomal 21kDa, V0 subunit b	533	ENSG00000117410
+
+ATP6V1D	NA	ATP6V1D	ATPase, H+ transporting, lysosomal 34kDa, V1 subunit D	51382	ENSG00000100554
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+
+Pathway Commons pathway	Internalization of ErbB1	DB_ID:1509
+C=1212;O=27;E=11.03;R=2.45;rawP=1.25e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Signaling events mediated by VEGFR1 and VEGFR2	DB_ID:1516
+C=1220;O=27;E=11.10;R=2.43;rawP=1.41e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Endothelins	DB_ID:1619
+C=1231;O=27;E=11.20;R=2.41;rawP=1.65e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Urokinase-type plasminogen activator (uPA) and uPAR-mediated signaling	DB_ID:1519
+C=1212;O=27;E=11.03;R=2.45;rawP=1.25e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Syndecan-1-mediated signaling events	DB_ID:1454
+C=1224;O=27;E=11.14;R=2.42;rawP=1.49e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	ErbB1 downstream signaling	DB_ID:1602
+C=1212;O=27;E=11.03;R=2.45;rawP=1.25e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	VEGF and VEGFR signaling network	DB_ID:1575
+C=1228;O=27;E=11.17;R=2.42;rawP=1.58e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Integrin family cell surface interactions	DB_ID:1499
+C=1298;O=28;E=11.81;R=2.37;rawP=1.52e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+ADAM15	NA	ADAM15	ADAM metallopeptidase domain 15	8751	ENSG00000143537
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Alpha9 beta1 integrin signaling events	DB_ID:1578
+C=1229;O=28;E=11.18;R=2.50;rawP=5.50e-06;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+ADAM15	NA	ADAM15	ADAM metallopeptidase domain 15	8751	ENSG00000143537
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	IGF1 pathway	DB_ID:1482
+C=1215;O=27;E=11.06;R=2.44;rawP=1.31e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	PDGFR-beta signaling pathway	DB_ID:1540
+C=1212;O=27;E=11.03;R=2.45;rawP=1.25e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	S1P1 pathway	DB_ID:1594
+C=1212;O=27;E=11.03;R=2.45;rawP=1.25e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Thrombin/protease-activated receptor (PAR) pathway	DB_ID:1552
+C=1224;O=28;E=11.14;R=2.51;rawP=5.09e-06;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+GNB1	NA	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	2782	ENSG00000078369
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Signaling events mediated by focal adhesion kinase	DB_ID:1574
+C=1212;O=27;E=11.03;R=2.45;rawP=1.25e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	LKB1 signaling events	DB_ID:1649
+C=1232;O=27;E=11.21;R=2.41;rawP=1.67e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	EGF receptor (ErbB1) signaling pathway	DB_ID:1550
+C=1212;O=27;E=11.03;R=2.45;rawP=1.25e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Class I PI3K signaling events	DB_ID:1553
+C=1212;O=27;E=11.03;R=2.45;rawP=1.25e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Plasma membrane estrogen receptor signaling	DB_ID:1556
+C=1225;O=28;E=11.15;R=2.51;rawP=5.17e-06;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+GNB1	NA	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	2782	ENSG00000078369
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Beta1 integrin cell surface interactions	DB_ID:1517
+C=1274;O=28;E=11.59;R=2.42;rawP=1.08e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+ADAM15	NA	ADAM15	ADAM metallopeptidase domain 15	8751	ENSG00000143537
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	ErbB receptor signaling network	DB_ID:1573
+C=1234;O=27;E=11.23;R=2.40;rawP=1.72e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Insulin Pathway	DB_ID:1466
+C=1212;O=27;E=11.03;R=2.45;rawP=1.25e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Arf6 trafficking events	DB_ID:1615
+C=1212;O=27;E=11.03;R=2.45;rawP=1.25e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Sphingosine 1-phosphate (S1P) pathway	DB_ID:1635
+C=1235;O=27;E=11.24;R=2.40;rawP=1.75e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	IL3-mediated signaling events	DB_ID:1564
+C=1219;O=27;E=11.09;R=2.43;rawP=1.39e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Arf6 downstream pathway	DB_ID:1585
+C=1212;O=27;E=11.03;R=2.45;rawP=1.25e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	GMCSF-mediated signaling events	DB_ID:1461
+C=1216;O=27;E=11.06;R=2.44;rawP=1.33e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	EGFR-dependent Endothelin signaling events	DB_ID:1603
+C=1213;O=27;E=11.04;R=2.45;rawP=1.27e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Class I PI3K signaling events mediated by Akt	DB_ID:1648
+C=1212;O=27;E=11.03;R=2.45;rawP=1.25e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Arf6 signaling events	DB_ID:1554
+C=1212;O=27;E=11.03;R=2.45;rawP=1.25e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met)	DB_ID:1491
+C=1217;O=27;E=11.07;R=2.44;rawP=1.34e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	PAR1-mediated thrombin signaling events	DB_ID:1531
+C=1223;O=28;E=11.13;R=2.52;rawP=5.01e-06;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+GNB1	NA	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	2782	ENSG00000078369
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	IL5-mediated signaling events	DB_ID:1627
+C=1216;O=27;E=11.06;R=2.44;rawP=1.33e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Nectin adhesion pathway	DB_ID:1472
+C=1219;O=27;E=11.09;R=2.43;rawP=1.39e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Glypican 1 network	DB_ID:1492
+C=1223;O=27;E=11.13;R=2.43;rawP=1.47e-05;adjP=3.15e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	TRAIL signaling pathway	DB_ID:1480
+C=1252;O=27;E=11.39;R=2.37;rawP=2.23e-05;adjP=3.89e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Glypican pathway	DB_ID:1459
+C=1262;O=27;E=11.48;R=2.35;rawP=2.56e-05;adjP=4.35e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	Proteoglycan syndecan-mediated signaling events	DB_ID:1637
+C=1268;O=27;E=11.54;R=2.34;rawP=2.79e-05;adjP=4.63e-05
+DNM1	NA	DNM1	dynamin 1	1759	ENSG00000106976
+
+CSNK1G2	NA	CSNK1G2	casein kinase 1, gamma 2	1455	ENSG00000133275
+
+GAPDH	NA	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	2597	ENSG00000111640
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+RB1CC1	NA	RB1CC1	RB1-inducible coiled-coil 1	9821	ENSG00000023287
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+MAPK8IP3	NA	MAPK8IP3	mitogen-activated protein kinase 8 interacting protein 3	23162	ENSG00000138834
+
+EPN1	NA	EPN1	epsin 1	29924	ENSG00000063245
+
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+NDRG2	NA	NDRG2	NDRG family member 2	57447	ENSG00000165795
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+ZFYVE28	NA	ZFYVE28	zinc finger, FYVE domain containing 28	57732	ENSG00000159733
+
+GNAO1	NA	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	2775	ENSG00000087258
+
+IQSEC1	NA	IQSEC1	IQ motif and Sec7 domain 1	9922	ENSG00000144711
+
+DNM2	NA	DNM2	dynamin 2	1785	ENSG00000079805
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+PLEKHA2	NA	PLEKHA2	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 2	59339	ENSG00000169499
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+
+Pathway Commons pathway	CDC42 signaling events	DB_ID:1488
+C=698;O=16;E=6.35;R=2.52;rawP=0.0006;adjP=0.0010
+CHN1	NA	CHN1	chimerin (chimaerin) 1	1123	ENSG00000128656
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+ARHGEF2	NA	ARHGEF2	Rho/Rac guanine nucleotide exchange factor (GEF) 2	9181	ENSG00000116584
+
+DLC1	NA	DLC1	deleted in liver cancer 1	10395	ENSG00000164741
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+LIMK2	NA	LIMK2	LIM domain kinase 2	3985	ENSG00000182541
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+
+Pathway Commons pathway	Regulation of CDC42 activity	DB_ID:1456
+C=710;O=16;E=6.46;R=2.48;rawP=0.0008;adjP=0.0013
+CHN1	NA	CHN1	chimerin (chimaerin) 1	1123	ENSG00000128656
+
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+ARHGEF2	NA	ARHGEF2	Rho/Rac guanine nucleotide exchange factor (GEF) 2	9181	ENSG00000116584
+
+DLC1	NA	DLC1	deleted in liver cancer 1	10395	ENSG00000164741
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+LIMK2	NA	LIMK2	LIM domain kinase 2	3985	ENSG00000182541
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+
+Pathway Commons pathway	Regulation of RAC1 activity	DB_ID:1530
+C=200;O=7;E=1.82;R=3.85;rawP=0.0024;adjP=0.0035
+ARHGEF2	NA	ARHGEF2	Rho/Rac guanine nucleotide exchange factor (GEF) 2	9181	ENSG00000116584
+
+CHN1	NA	CHN1	chimerin (chimaerin) 1	1123	ENSG00000128656
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+DLC1	NA	DLC1	deleted in liver cancer 1	10395	ENSG00000164741
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+LIMK2	NA	LIMK2	LIM domain kinase 2	3985	ENSG00000182541
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+
+Pathway Commons pathway	RAC1 signaling pathway	DB_ID:1572
+C=200;O=7;E=1.82;R=3.85;rawP=0.0024;adjP=0.0035
+ARHGEF2	NA	ARHGEF2	Rho/Rac guanine nucleotide exchange factor (GEF) 2	9181	ENSG00000116584
+
+CHN1	NA	CHN1	chimerin (chimaerin) 1	1123	ENSG00000128656
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+DLC1	NA	DLC1	deleted in liver cancer 1	10395	ENSG00000164741
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+LIMK2	NA	LIMK2	LIM domain kinase 2	3985	ENSG00000182541
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+
+Pathway Commons pathway	Diabetes pathways	DB_ID:420
+C=202;O=7;E=1.84;R=3.81;rawP=0.0025;adjP=0.0035
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+FAU	NA	FAU	Finkel-Biskis-Reilly murine sarcoma virus (FBR-MuSV) ubiquitously expressed	2197	ENSG00000149806
+
+STXBP1	NA	STXBP1	syntaxin binding protein 1	6812	ENSG00000136854
+
+TSPYL2	NA	TSPYL2	TSPY-like 2	64061	ENSG00000184205
+
+RPS14	NA	RPS14	ribosomal protein S14	6208	ENSG00000164587
+
+RPL21	NA	RPL21	ribosomal protein L21	6144	ENSG00000122026
+
+DCTN1	NA	DCTN1	dynactin 1	1639	ENSG00000204843
+
+
+Pathway Commons pathway	RhoA signaling pathway	DB_ID:1647
+C=200;O=7;E=1.82;R=3.85;rawP=0.0024;adjP=0.0035
+ARHGEF2	NA	ARHGEF2	Rho/Rac guanine nucleotide exchange factor (GEF) 2	9181	ENSG00000116584
+
+CHN1	NA	CHN1	chimerin (chimaerin) 1	1123	ENSG00000128656
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+DLC1	NA	DLC1	deleted in liver cancer 1	10395	ENSG00000164741
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+LIMK2	NA	LIMK2	LIM domain kinase 2	3985	ENSG00000182541
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+
+Pathway Commons pathway	Regulation of RhoA activity	DB_ID:1650
+C=200;O=7;E=1.82;R=3.85;rawP=0.0024;adjP=0.0035
+ARHGEF2	NA	ARHGEF2	Rho/Rac guanine nucleotide exchange factor (GEF) 2	9181	ENSG00000116584
+
+CHN1	NA	CHN1	chimerin (chimaerin) 1	1123	ENSG00000128656
+
+KALRN	NA	KALRN	kalirin, RhoGEF kinase	8997	ENSG00000160145
+
+DLC1	NA	DLC1	deleted in liver cancer 1	10395	ENSG00000164741
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+LIMK2	NA	LIMK2	LIM domain kinase 2	3985	ENSG00000182541
+
+ARPC3	NA	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	10094	ENSG00000111229
+
+
+Pathway Commons pathway	Transmission across Chemical Synapses	DB_ID:150
+C=118;O=5;E=1.07;R=4.66;rawP=0.0045;adjP=0.0062
+GNB1	NA	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	2782	ENSG00000078369
+
+RIMS1	NA	RIMS1	regulating synaptic membrane exocytosis 1	22999	ENSG00000079841
+
+STXBP1	NA	STXBP1	syntaxin binding protein 1	6812	ENSG00000136854
+
+GNB2	NA	GNB2	guanine nucleotide binding protein (G protein), beta polypeptide 2	2783	ENSG00000172354
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+
+Pathway Commons pathway	Insulin Synthesis and Processing	DB_ID:410
+C=124;O=5;E=1.13;R=4.43;rawP=0.0055;adjP=0.0075
+EXOC1	NA	EXOC1	exocyst complex component 1	55763	ENSG00000090989
+
+FAU	NA	FAU	Finkel-Biskis-Reilly murine sarcoma virus (FBR-MuSV) ubiquitously expressed	2197	ENSG00000149806
+
+STXBP1	NA	STXBP1	syntaxin binding protein 1	6812	ENSG00000136854
+
+RPS14	NA	RPS14	ribosomal protein S14	6208	ENSG00000164587
+
+RPL21	NA	RPL21	ribosomal protein L21	6144	ENSG00000122026
+
+
+Pathway Commons pathway	Transmembrane transport of small molecules	DB_ID:937
+C=361;O=9;E=3.28;R=2.74;rawP=0.0058;adjP=0.0077
+ATP6V0B	NA	ATP6V0B	ATPase, H+ transporting, lysosomal 21kDa, V0 subunit b	533	ENSG00000117410
+
+ATP6V1D	NA	ATP6V1D	ATPase, H+ transporting, lysosomal 34kDa, V1 subunit D	51382	ENSG00000100554
+
+ABCA3	NA	ABCA3	ATP-binding cassette, sub-family A (ABC1), member 3	21	ENSG00000167972
+
+ATP2C1	NA	ATP2C1	ATPase, Ca++ transporting, type 2C, member 1	27032	ENSG00000017260
+
+ATP2B2	NA	ATP2B2	ATPase, Ca++ transporting, plasma membrane 2	491	ENSG00000157087
+
+ATP6V0A1	NA	ATP6V0A1	ATPase, H+ transporting, lysosomal V0 subunit a1	535	ENSG00000033627
+
+SLC11A2	NA	SLC11A2	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2	4891	ENSG00000110911
+
+SLC20A1	NA	SLC20A1	solute carrier family 20 (phosphate transporter), member 1	6574	ENSG00000144136
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+
+Pathway Commons pathway	Platelet activation, signaling and aggregation	DB_ID:56
+C=136;O=5;E=1.24;R=4.04;rawP=0.0081;adjP=0.0106
+LAMP2	NA	LAMP2	lysosomal-associated membrane protein 2	3920	ENSG00000005893
+
+GNB1	NA	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	2782	ENSG00000078369
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+DGKZ	NA	DGKZ	diacylglycerol kinase, zeta	8525	ENSG00000149091
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+
+Pathway Commons pathway	Metabolism	DB_ID:634
+C=781;O=14;E=7.11;R=1.97;rawP=0.0120;adjP=0.0154
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+GUK1	NA	GUK1	guanylate kinase 1	2987	ENSG00000143774
+
+RPS14	NA	RPS14	ribosomal protein S14	6208	ENSG00000164587
+
+RPL21	NA	RPL21	ribosomal protein L21	6144	ENSG00000122026
+
+PSMC3	NA	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	5702	ENSG00000165916
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+NDUFB8	NA	NDUFB8	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 8, 19kDa	4714	ENSG00000166136
+
+GNB1	NA	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	2782	ENSG00000078369
+
+OGDH	NA	OGDH	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide)	4967	ENSG00000105953
+
+ATP5B	NA	ATP5B	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide	506	ENSG00000110955
+
+FAU	NA	FAU	Finkel-Biskis-Reilly murine sarcoma virus (FBR-MuSV) ubiquitously expressed	2197	ENSG00000149806
+
+NDUFA12	NA	NDUFA12	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 12	55967	ENSG00000184752
+
+STXBP1	NA	STXBP1	syntaxin binding protein 1	6812	ENSG00000136854
+
+GNB2	NA	GNB2	guanine nucleotide binding protein (G protein), beta polypeptide 2	2783	ENSG00000172354
+
+
+Pathway Commons pathway	Metabolism of mRNA	DB_ID:864
+C=223;O=6;E=2.03;R=2.96;rawP=0.0164;adjP=0.0207
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+FAU	NA	FAU	Finkel-Biskis-Reilly murine sarcoma virus (FBR-MuSV) ubiquitously expressed	2197	ENSG00000149806
+
+RPS14	NA	RPS14	ribosomal protein S14	6208	ENSG00000164587
+
+RPL21	NA	RPL21	ribosomal protein L21	6144	ENSG00000122026
+
+PSMC3	NA	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	5702	ENSG00000165916
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+
+Pathway Commons pathway	ALK1 signaling events	DB_ID:1612
+C=307;O=7;E=2.79;R=2.51;rawP=0.0224;adjP=0.0277
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+
+Pathway Commons pathway	ALK1 pathway	DB_ID:1583
+C=310;O=7;E=2.82;R=2.48;rawP=0.0235;adjP=0.0285
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+
+Pathway Commons pathway	Neuronal System	DB_ID:143
+C=184;O=5;E=1.67;R=2.99;rawP=0.0266;adjP=0.0317
+GNB1	NA	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	2782	ENSG00000078369
+
+RIMS1	NA	RIMS1	regulating synaptic membrane exocytosis 1	22999	ENSG00000079841
+
+STXBP1	NA	STXBP1	syntaxin binding protein 1	6812	ENSG00000136854
+
+GNB2	NA	GNB2	guanine nucleotide binding protein (G protein), beta polypeptide 2	2783	ENSG00000172354
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+
+Pathway Commons pathway	AP-1 transcription factor network	DB_ID:1565
+C=567;O=10;E=5.16;R=1.94;rawP=0.0346;adjP=0.0406
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+
+Pathway Commons pathway	Hemostasis	DB_ID:64
+C=343;O=7;E=3.12;R=2.24;rawP=0.0376;adjP=0.0426
+KLC1	NA	KLC1	kinesin light chain 1	3831	ENSG00000256500,ENSG00000126214
+
+LAMP2	NA	LAMP2	lysosomal-associated membrane protein 2	3920	ENSG00000005893
+
+GNB1	NA	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	2782	ENSG00000078369
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+DGKZ	NA	DGKZ	diacylglycerol kinase, zeta	8525	ENSG00000149091
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+ATP2B2	NA	ATP2B2	ATPase, Ca++ transporting, plasma membrane 2	491	ENSG00000157087
+
+
+Pathway Commons pathway	Metabolism of RNA	DB_ID:865
+C=270;O=6;E=2.46;R=2.44;rawP=0.0372;adjP=0.0426
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+FAU	NA	FAU	Finkel-Biskis-Reilly murine sarcoma virus (FBR-MuSV) ubiquitously expressed	2197	ENSG00000149806
+
+RPS14	NA	RPS14	ribosomal protein S14	6208	ENSG00000164587
+
+RPL21	NA	RPL21	ribosomal protein L21	6144	ENSG00000122026
+
+PSMC3	NA	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	5702	ENSG00000165916
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+
+Pathway Commons pathway	Integrin-linked kinase signaling	DB_ID:1546
+C=599;O=10;E=5.45;R=1.83;rawP=0.0473;adjP=0.0527
+ENG	NA	ENG	endoglin	2022	ENSG00000106991
+
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+MAPK10	NA	MAPK10	mitogen-activated protein kinase 10	5602	ENSG00000109339
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+TF	NA	TF	transferrin	7018	ENSG00000091513
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+
+Pathway Commons pathway	Regulation of nuclear SMAD2/3 signaling	DB_ID:1611
+C=291;O=6;E=2.65;R=2.27;rawP=0.0503;adjP=0.0534
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+
+Pathway Commons pathway	TGF-beta receptor signaling	DB_ID:1510
+C=291;O=6;E=2.65;R=2.27;rawP=0.0503;adjP=0.0534
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+
+Pathway Commons pathway	Regulation of cytoplasmic and nuclear SMAD2/3 signaling	DB_ID:1440
+C=291;O=6;E=2.65;R=2.27;rawP=0.0503;adjP=0.0534
+PRKCG	NA	PRKCG	protein kinase C, gamma	5582	ENSG00000126583
+
+EGR1	NA	EGR1	early growth response 1	1958	ENSG00000120738
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+FOXG1	NA	FOXG1	forkhead box G1	2290	ENSG00000176165
+
+HSPA8	NA	HSPA8	heat shock 70kDa protein 8	3312	ENSG00000109971
+
+GDI1	NA	GDI1	GDP dissociation inhibitor 1	2664	ENSG00000203879
+
+
+Pathway Commons pathway	Metabolism of proteins	DB_ID:728
+C=249;O=5;E=2.27;R=2.21;rawP=0.0774;adjP=0.0810
+EIF4G1	NA	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	1981	ENSG00000114867
+
+FAU	NA	FAU	Finkel-Biskis-Reilly murine sarcoma virus (FBR-MuSV) ubiquitously expressed	2197	ENSG00000149806
+
+RPS14	NA	RPS14	ribosomal protein S14	6208	ENSG00000164587
+
+RPL21	NA	RPL21	ribosomal protein L21	6144	ENSG00000122026
+
+TBCE	NA	TBCE	tubulin folding cofactor E	6905	ENSG00000116957
+
+
+Pathway Commons pathway	Developmental Biology	DB_ID:11
+C=414;O=7;E=3.77;R=1.86;rawP=0.0844;adjP=0.0870
+NCOR2	NA	NCOR2	nuclear receptor corepressor 2	9612	ENSG00000196498
+
+PPARGC1A	NA	PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	10891	ENSG00000109819
+
+FAU	NA	FAU	Finkel-Biskis-Reilly murine sarcoma virus (FBR-MuSV) ubiquitously expressed	2197	ENSG00000149806
+
+CACNA1G	NA	CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	8913	ENSG00000006283
+
+RPS14	NA	RPS14	ribosomal protein S14	6208	ENSG00000164587
+
+DRAP1	NA	DRAP1	DR1-associated protein 1 (negative cofactor 2 alpha)	10589	ENSG00000175550
+
+RPL21	NA	RPL21	ribosomal protein L21	6144	ENSG00000122026
+
+
+
+
